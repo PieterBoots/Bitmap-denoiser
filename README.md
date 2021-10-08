@@ -1,5 +1,5 @@
 # Denoise-Bitmap
-Denoise
+
 
 Example:
 ```cs
